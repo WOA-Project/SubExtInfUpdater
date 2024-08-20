@@ -5,6 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;Debug-SLPI;Debug-ADSP;Debug-CDSP;Debug-MCFG;Debug-SDSP;Release-SLPI;Release-SDSP;Release-ADSP;Release-CDSP;Release-MCFG</Configurations>
   </PropertyGroup>
 
 </Project>

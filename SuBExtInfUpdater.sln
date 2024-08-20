@@ -3,18 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.32916.344
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuBExtInfUpdater", "SuBExtInfUpdater\SuBExtInfUpdater.csproj", "{760E36DE-1859-4E9C-B2D3-214C7B922510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuBExtInfUpdater", "SuBExtInfUpdater\SuBExtInfUpdater.csproj", "{760E36DE-1859-4E9C-B2D3-214C7B922510}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug-ADSP|Any CPU = Debug-ADSP|Any CPU
+		Debug-CDSP|Any CPU = Debug-CDSP|Any CPU
+		Debug-MCFG|Any CPU = Debug-MCFG|Any CPU
+		Debug-SDSP|Any CPU = Debug-SDSP|Any CPU
+		Debug-SLPI|Any CPU = Debug-SLPI|Any CPU
+		Release-ADSP|Any CPU = Release-ADSP|Any CPU
+		Release-CDSP|Any CPU = Release-CDSP|Any CPU
+		Release-MCFG|Any CPU = Release-MCFG|Any CPU
+		Release-SDSP|Any CPU = Release-SDSP|Any CPU
+		Release-SLPI|Any CPU = Release-SLPI|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-ADSP|Any CPU.ActiveCfg = Debug-ADSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-ADSP|Any CPU.Build.0 = Debug-ADSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-CDSP|Any CPU.ActiveCfg = Debug-CDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-CDSP|Any CPU.Build.0 = Debug-CDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-MCFG|Any CPU.ActiveCfg = Debug-MCFG|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-MCFG|Any CPU.Build.0 = Debug-MCFG|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-SDSP|Any CPU.ActiveCfg = Debug-SDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-SDSP|Any CPU.Build.0 = Debug-SDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-SLPI|Any CPU.ActiveCfg = Debug-SLPI|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Debug-SLPI|Any CPU.Build.0 = Debug-SLPI|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-ADSP|Any CPU.ActiveCfg = Release-ADSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-ADSP|Any CPU.Build.0 = Release-ADSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-CDSP|Any CPU.ActiveCfg = Release-CDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-CDSP|Any CPU.Build.0 = Release-CDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-MCFG|Any CPU.ActiveCfg = Release-MCFG|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-MCFG|Any CPU.Build.0 = Release-MCFG|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-SDSP|Any CPU.ActiveCfg = Release-SDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-SDSP|Any CPU.Build.0 = Release-SDSP|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-SLPI|Any CPU.ActiveCfg = Release-SLPI|Any CPU
+		{760E36DE-1859-4E9C-B2D3-214C7B922510}.Release-SLPI|Any CPU.Build.0 = Release-SLPI|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
